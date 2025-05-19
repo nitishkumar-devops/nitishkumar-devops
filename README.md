@@ -16,7 +16,7 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/nitishkumar-devops](https://github.com/nitishkumar-devops)  
-- 💬 Ask me about **DevOps & AWS Cloud DevOps**  
+- 💬 Ask me about **DevOps & AWS Cloud **  
 - 📫 How to reach me **nitishkumar05.devops@gmail.com**
 
 ---
@@ -53,5 +53,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitishkumar-devops&show_icons=true&locale=en&theme=vue&hide_border=true" alt="nitishkumar-devops" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitishkumar-devops&show_icons=true&locale=en&theme=vue&hide_border=true" alt="nitishkumar-devops" /></p>
 
 
